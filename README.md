@@ -1,4 +1,4 @@
 # clone
-Clone an nRF52's flash memory and output a hex file which can be uploaded to an nRF52 chip
+Clone an nRF52's flash memory and output a hex file which can be uploaded to an nRF52 chip.  
 
-This file was downloaded from here:  http://hightechdoc.net/mecrisp-stellaris/_build/html/cloning.html?highlight=cloning#cloning
+This file was downloaded from here:  http://hightechdoc.net/mecrisp-stellaris/_build/html/cloning.html?highlight=cloning#cloning  I'm including a copy of it here just in case the original ever disappears.
